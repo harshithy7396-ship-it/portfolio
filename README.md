@@ -1,9 +1,9 @@
-# Ali Harshit Yadav — Portfolio
+# Alli Harshith Yadav — Portfolio
 
 A responsive, single-page portfolio built with HTML, CSS, and JavaScript.
 
 ## Customize before publishing
-1. Replace `your.email@example.com` with your professional email.
+1. Replace `harshithydome@gmail.com` with your professional email.
 2. Replace the generic GitHub and LinkedIn links with your actual profile URLs.
 3. Replace the GitHub project links in the project cards with the correct repositories.
 4. Add your resume as `resume.pdf` in the same folder, or remove the Resume button.
